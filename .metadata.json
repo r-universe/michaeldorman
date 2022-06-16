@@ -1,0 +1,18 @@
+[
+  {
+    "package": "mapsapi",
+    "oncran": true
+  },
+  {
+    "package": "nngeo",
+    "oncran": true
+  },
+  {
+    "package": "shadow",
+    "oncran": true
+  },
+  {
+    "package": "starsExtra",
+    "oncran": true
+  }
+]
