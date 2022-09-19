@@ -1,5 +1,9 @@
 [
   {
+    "package": "mapsapi",
+    "oncran": true
+  },
+  {
     "package": "nngeo",
     "oncran": true
   },
