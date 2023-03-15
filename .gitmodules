@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "starsExtra"]
-	path = starsExtra
-	url = https://github.com/michaeldorman/starsextra
-	shallow = true
-	registered = true
-[submodule "shadow"]
-	path = shadow
-	url = https://github.com/michaeldorman/shadow
+[submodule "mapsapi"]
+	path = mapsapi
+	url = https://github.com/michaeldorman/mapsapi
 	shallow = true
 	registered = true
 [submodule "nngeo"]
@@ -18,8 +13,13 @@
 	url = https://github.com/michaeldorman/nngeo
 	shallow = true
 	registered = true
-[submodule "mapsapi"]
-	path = mapsapi
-	url = https://github.com/michaeldorman/mapsapi
+[submodule "shadow"]
+	path = shadow
+	url = https://github.com/michaeldorman/shadow
+	shallow = true
+	registered = true
+[submodule "starsExtra"]
+	path = starsExtra
+	url = https://github.com/michaeldorman/starsextra
 	shallow = true
 	registered = true

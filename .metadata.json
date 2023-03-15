@@ -1,10 +1,6 @@
 [
   {
-    "package": "starsExtra",
-    "oncran": true
-  },
-  {
-    "package": "shadow",
+    "package": "mapsapi",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "mapsapi",
+    "package": "shadow",
+    "oncran": true
+  },
+  {
+    "package": "starsExtra",
     "oncran": true
   }
 ]
