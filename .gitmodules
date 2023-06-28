@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mapsapi"]
 	path = mapsapi
 	url = https://github.com/michaeldorman/mapsapi
-	shallow = true
-	registered = true
 [submodule "nngeo"]
 	path = nngeo
 	url = https://github.com/michaeldorman/nngeo
-	shallow = true
-	registered = true
 [submodule "shadow"]
 	path = shadow
 	url = https://github.com/michaeldorman/shadow
-	shallow = true
-	registered = true
 [submodule "starsExtra"]
 	path = starsExtra
 	url = https://github.com/michaeldorman/starsextra
-	shallow = true
-	registered = true
