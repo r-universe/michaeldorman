@@ -8,9 +8,6 @@
 [submodule "nngeo"]
 	path = nngeo
 	url = https://github.com/michaeldorman/nngeo
-[submodule "shadow"]
-	path = shadow
-	url = https://github.com/michaeldorman/shadow
 [submodule "starsExtra"]
 	path = starsExtra
 	url = https://github.com/michaeldorman/starsextra
